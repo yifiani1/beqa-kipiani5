@@ -1,0 +1,161 @@
+body {
+	padding-top: 120px;
+	}
+/*head*/
+.navigation {
+	display: inline-block;
+	width: 750px;
+	vertical-align: middle;
+}
+.logo {
+	margin-right: 110px;
+	margin-left: 150px;
+	vertical-align: middle;
+}
+.header-wraper {
+	background-color: #FFFFFF;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	height: 120px;
+	z-index: 20;
+}
+.nava {
+	display: inline-block;
+	color: #181C28;
+	margin:0 40px;
+	font-size: 16px;
+}
+.navli {
+	display: inline-block;
+	font-size: 16px;
+	margin:0 auto;
+}
+/*N1*/
+
+.section1-img {
+	width: 100%;
+}
+.section1-div {
+	position: relative;
+	z-index: 1;
+}
+.section1-text {
+	margin-left: 40%;
+	text-align: center;
+	position: absolute;
+	top: 105px;
+	color: #FFFFFF;
+	font-size: 22px;
+}
+
+
+.active {
+	font-size: 48px;
+	position: absolute;
+	right: 700px;
+	top: 132px;
+}
+/*N2*/
+.section2-head {
+	font-size: 22px;
+	color: #FF7A00;
+	margin-top: 84px;
+	margin-left: 172px;
+	margin-bottom: 81px;
+}
+.left1-box {
+	width: 638px;
+	height: 680px;
+	display: inline-block;
+}
+.head {
+	font-size: 36px;
+	margin-right: 71px;
+}
+.pbottom {
+	font-size: 14px;
+	color: #FF7A00;
+	display: inline-block;
+	vertical-align: middle;
+}
+.box-line {
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 18px;
+	vertical-align: middle;
+}
+.right1-box {
+	width: 638px;
+	height: 680px;
+	display: inline-block;
+	margin-left: 42px;
+}
+.section2 {
+	width: 1324px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.orange {
+	width: 190px;
+	height: 70px;
+	background-color: #FF7A00;
+	margin:0 auto;
+	font-size: 16px;
+	color: #FFFFFF;
+	text-align: center;
+	padding-top: 25px;
+}
+	.black-box {
+		width: 100%;
+		height: 266px;
+		background-color: #181C28;
+		margin-bottom: 82px;
+		margin-top: 134px;
+	}
+	/*foot*/
+	.footer-list {
+		text-align: left;
+		padding-left: 0px;
+	}
+	.footer-div {
+		display: inline-block;
+		vertical-align: middle;
+	}
+	footer {
+		width: 1300px;
+		margin: 0 auto;
+	}
+	.footer-li {
+		font-size: 16px;
+		color: #7B7B7B;
+		margin-bottom: 36px;
+	}
+	.active2 {
+		font-size: 24px;
+
+	}
+	.footer-div1 {
+		display: inline-block;
+		margin-left: 190px;
+		margin-right: 202px;
+		vertical-align: middle;
+	}
+	.footer-div2 {
+		display: inline-block;
+		margin-left: 190px;
+        vertical-align: top;
+		margin-bottom: 24px;
+	}
+	.footer-img {
+		float: right;
+		vertical-align: middle;
+		margin-left: 14px;
+	}
+	.footer-text {
+		color: #A4A4A4;
+		margin-left: 1028px;
+		margin-top: 45px;
+	}
